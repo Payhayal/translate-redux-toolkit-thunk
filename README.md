@@ -1,6 +1,6 @@
-###React + Vite
+#####React + Vite
 
-##Libraries used 
+###Libraries used:
 
 #react-redux
 
@@ -20,10 +20,11 @@
 
 ##SCREEN VIEW
 
+![](tra6.png)
+
 ![](tra1.png)
 
 ![](tra4.png)
 
 ![](tra5.png)
 
-![](tra6.png)
