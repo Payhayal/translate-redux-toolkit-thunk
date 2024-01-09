@@ -1,6 +1,7 @@
-#####React + Vite
 
+`````
 ###Libraries used:
+`````
 
 #react-redux
 
@@ -23,6 +24,8 @@
 ##@Reduxjs/Toolkit: #Purpose: Redux Toolkit is an official package that simplifies working with Redux, a state management library for JavaScript applications. #Key Features: Provides utilities and functions to reduce the amount of boilerplate code needed for Redux, like creating slices, configuring the store, and managing actions and reducers.
 
 ##React-Redux: #Purpose: React-Redux is the official binding for React and Redux, allowing React components to interact with the Redux store. #Key Features: Connects React components to the Redux store, enabling the components to subscribe to store updates and dispatch actions.
+
+
 
 ##SCREEN GIF
 
